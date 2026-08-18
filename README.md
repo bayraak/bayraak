@@ -9,6 +9,6 @@ What I work on:
 - **Agentic systems** — MCP tool servers, agent loops, and evals in daily use.
 - **Commerce workflows** — co-founder of [buketi.mk](https://buketi.mk), same-day delivery running on compensable workflows.
 
-Most of my work lives in private repositories.
+Most of my work lives in private repositories. Public: [2ndm1nd-runtime](https://github.com/bayraak/2ndm1nd-runtime) — local-first ambient capture with a daily AI consolidation shift; no model in the capture path.
 
 [bayramali.basgul.com](https://bayramali.basgul.com)
