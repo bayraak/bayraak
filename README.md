@@ -11,4 +11,6 @@ What I work on:
 
 Most of my work lives in private repositories. Public: [2ndm1nd-runtime](https://github.com/bayraak/2ndm1nd-runtime) — local-first ambient capture with a daily AI consolidation shift; no model in the capture path.
 
+Upstream: a merged fix in [npm-check-updates](https://github.com/raineorshine/npm-check-updates/pull/1662), an open PR on [SuperPlane](https://github.com/superplanehq/superplane/pull/6583).
+
 [bayramali.basgul.com](https://bayramali.basgul.com)
