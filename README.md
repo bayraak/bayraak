@@ -9,8 +9,14 @@ What I work on:
 - **Agentic systems** — MCP tool servers, agent loops, and evals in daily use.
 - **Commerce workflows** — co-founder of [buketi.mk](https://buketi.mk), same-day delivery running on compensable workflows.
 
-Most of my work lives in private repositories. Public: [2ndm1nd-runtime](https://github.com/bayraak/2ndm1nd-runtime) — local-first ambient capture with a daily AI consolidation shift; no model in the capture path. [biological-ui-arch](https://github.com/bayraak/biological-ui-arch) — 35 lint rules enforcing a tiered UI architecture at the linter, where it cannot be skipped.
+3,300+ contributions in the last year, most of them in private product repos. The public ones:
 
-Upstream: a merged fix in [npm-check-updates](https://github.com/raineorshine/npm-check-updates/pull/1662), an open PR on [SuperPlane](https://github.com/superplanehq/superplane/pull/6583).
+- [2ndm1nd-runtime](https://github.com/bayraak/2ndm1nd-runtime) — always-on local second brain for macOS; no model in the capture path, by architecture
+- [load-planner-mcp](https://github.com/bayraak/load-planner-mcp) — OR-Tools CP-SAT load planning behind an MCP server whose explain tool cannot invent a number
+- [biological-ui-arch](https://github.com/bayraak/biological-ui-arch) — 35 lint rules enforcing a tiered UI architecture at the linter, where it cannot be skipped
+- [verify-arch](https://github.com/bayraak/verify-arch) — whole-graph architecture gate for Medusa 2.x codebases
+- [playwright-visual-diff-manifest](https://github.com/bayraak/playwright-visual-diff-manifest) — deterministic visual regression with a breakpoint manifest
+
+Upstream: a merged fix in [npm-check-updates](https://github.com/raineorshine/npm-check-updates/pull/1662), open PRs on [SuperPlane](https://github.com/superplanehq/superplane/pull/6583) and [Medusa](https://github.com/medusajs/medusa/pull/16512).
 
 [bayramali.basgul.com](https://bayramali.basgul.com)
