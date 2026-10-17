@@ -12,10 +12,10 @@ Product engineer in Skopje. I build things where the guarantee is enforced by co
 
 Also published: [playwright-visual-diff-manifest](https://github.com/bayraak/playwright-visual-diff-manifest), a manifest-driven visual regression harness, and [geonosis](https://www.npmjs.com/package/geonosis), an agent-engineering toolchain (npm only; its source is private).
 
-## Upstream
+## Recent Open-Source Contributions
 
 - npm-check-updates: [#1662](https://github.com/raineorshine/npm-check-updates/pull/1662), merged.
-- void: [#440](https://github.com/voidzero-dev/void/pull/440), merged.
+- Void by Cloudflare: [#440](https://github.com/voidzero-dev/void/pull/440), merged.
 - Cloudflare docs: [#34386](https://github.com/cloudflare/cloudflare-docs/pull/34386), open, with a [minimal reproduction](https://github.com/bayraak/workflows-local-rollback-status-repro).
 
 [bayramali.basgul.com](https://bayramali.basgul.com)
